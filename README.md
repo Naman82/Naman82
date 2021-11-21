@@ -55,11 +55,12 @@ You can click the Preview link to take a look at your changes.
    <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="45" height="50"/> </a>                                                                                
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="50"/> 
 <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/11f0b3afa30619b424e9b29eea0b3bc9faa9a6d33c66e1ad20fc5d018f7a11f6/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f707974686f6e2d2d76312e706e67"><img src="https://camo.githubusercontent.com/11f0b3afa30619b424e9b29eea0b3bc9faa9a6d33c66e1ad20fc5d018f7a11f6/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f707974686f6e2d2d76312e706e67" alt="Python" data-canonical-src="https://img.icons8.com/color/48/000000/python--v1.png" style="max-width:100%;"></a>
-<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/146631708b549852bc9ebefc88c25fa492d89c3d71caef6ecd899f622e416309/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f616d617a6f6e2d7765622d73657276696365732e706e67"><img src="https://camo.githubusercontent.com/146631708b549852bc9ebefc88c25fa492d89c3d71caef6ecd899f622e416309/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f616d617a6f6e2d7765622d73657276696365732e706e67" alt="AWS" data-canonical-src="https://img.icons8.com/color/48/000000/amazon-web-services.png" style="max-width:100%;"></a>
-</p>
+ <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> 
+<!-- <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/146631708b549852bc9ebefc88c25fa492d89c3d71caef6ecd899f622e416309/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f616d617a6f6e2d7765622d73657276696365732e706e67"><img src="https://camo.githubusercontent.com/146631708b549852bc9ebefc88c25fa492d89c3d71caef6ecd899f622e416309/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f616d617a6f6e2d7765622d73657276696365732e706e67" alt="AWS" data-canonical-src="https://img.icons8.com/color/48/000000/amazon-web-services.png" style="max-width:100%;"></a>
+</p> -->
 
 <p style="font-size:20%;" style="font-family:verdana;">
-    <b>Exploring the Web</b>
+    <b>Exploring the Web : </b>
   </p>
   
 <!--   <img align="right" height="150" alt="img" src="https://emojis.slackmojis.com/emojis/images/1577982316/7421/typingcat.gif?1577982316" padding="3px"  /> -->
@@ -73,8 +74,7 @@ You can click the Preview link to take a look at your changes.
 💻 Find me on:
 <br/>
 <p align="left">
-   <!--twitter-->
-<!--   <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a>     <!--Linkedin--><a href="https://www.linkedin.com/in/naman-goyal-b02667216/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width=40" /></a>      <!--Instagram--> -->
+        <!--Linkedin--><a href="https://www.linkedin.com/in/naman-goyal-b02667216/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width=40" /></a>      <!--Instagram--> 
  <a href="https://www.instagram.com/naman_._goyal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a> 
    
 </p>
