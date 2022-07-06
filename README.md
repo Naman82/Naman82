@@ -8,7 +8,7 @@
 Naman82/Naman82 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 ---> 
-<!-- <h1 align="center">Hi 👋, I'm Naman Goyal</h1>
+<h1 align="center">Hi 👋, I'm Naman Goyal</h1>
 <h3 align="center">A Frontend web developer and beginner at flutter</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=naman82&label=Profile%20views&color=0e75b6&style=flat" alt="naman82" /> </p>
@@ -31,13 +31,13 @@ You can click the Preview link to take a look at your changes.
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=naman82&show_icons=true&locale=en" alt="naman82" /></p>
 
 [![Naman's github activity graph](https://activity-graph.herokuapp.com/graph?username=Naman82&theme=xcode)](https://github.com/Naman82/github-readme-activity-graph)
- -->
+
  
  
- <h1 align="center">
+<!--  <h1 align="center">
    Naman Goyal   <img alt="." src="https://emojis.slackmojis.com/emojis/images/1613942497/14160/mario_wave.gif?1613942497" width="45"> 
 </h1>  
-  
+   -->
  <p style="font-size:10%;" style="font-family:verdana;"> 
   Hey there! Glad you were intrested enough to visit. I am from Karnal and completed my secondary schooling from <b>Dyal Singh Public School, Karnal</b>. Currently a <i><b>Computer Engineering</b></i> undergrad from <b>IIIT Bhubaneshwar</b>.
   </p>
