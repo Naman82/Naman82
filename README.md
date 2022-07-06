@@ -8,10 +8,10 @@
 Naman82/Naman82 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 ---> 
-<h1 align="center">Hi 👋, I'm Naman Goyal</h1>
-<h3 align="center">A Frontend web developer and beginner at flutter</h3>
+<h1 align="center">Naman Goyal</h1>
+<h3 align="center">Full Stack Blockchain and Web Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=naman82&label=Profile%20views&color=0e75b6&style=flat" alt="naman82" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=naman82&label=Profile%20views&color=0e75b6&style=flat" alt="naman82" /> </p>
 
 - 🌱 I’m currently learning **Flutter**
 
@@ -31,30 +31,28 @@ You can click the Preview link to take a look at your changes.
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=naman82&show_icons=true&locale=en" alt="naman82" /></p>
 
 [![Naman's github activity graph](https://activity-graph.herokuapp.com/graph?username=Naman82&theme=xcode)](https://github.com/Naman82/github-readme-activity-graph)
-
+ -->
  
  
 <!--  <h1 align="center">
    Naman Goyal   <img alt="." src="https://emojis.slackmojis.com/emojis/images/1613942497/14160/mario_wave.gif?1613942497" width="45"> 
 </h1>  
    -->
- <p style="font-size:10%;" style="font-family:verdana;"> 
-  Hey there! Glad you were intrested enough to visit. I am from Karnal and completed my secondary schooling from <b>Dyal Singh Public School, Karnal</b>. Currently a <i><b>Computer Engineering</b></i> undergrad from <b>IIIT Bhubaneshwar</b>.
+ <p style="font-size:10%;" style="font-family:verdana;"><b>Computer Engineering</b> undergrad  at International Institute of Information Technology, Bhubaneswar.
   </p>
-  
-  
 <br />
 
 🚀 Languages and Tools:
 <p align="center">
-<a href="https://www.w3.org/html/" rel="nofollow"> <img src="https://camo.githubusercontent.com/91624b4794cb98081ea55063865721be4b4399472c81e66b89b37fd07aad1d92/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f68746d6c2d352e706e67" alt="HTML5" data-canonical-src="https://img.icons8.com/color/48/000000/html-5.png" style="max-width:100%;"> </a>
-<a href="https://www.w3schools.com/css/" rel="nofollow"> <img src="https://camo.githubusercontent.com/dc75aee770dff630309493116eeebd6a39c7042e4e94780a5e6c8f107bebe76f/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f637373332e706e67" alt="CSS3" data-canonical-src="https://img.icons8.com/color/48/000000/css3.png" style="max-width:100%;"> </a>
-<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/2771059ece39a91f0ca8afe0205a540e3af66f435508ba80b080eb249479d4dc/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f632d70726f6772616d6d696e672e706e67"><img src="https://camo.githubusercontent.com/2771059ece39a91f0ca8afe0205a540e3af66f435508ba80b080eb249479d4dc/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f632d70726f6772616d6d696e672e706e67" alt="C" data-canonical-src="https://img.icons8.com/color/48/000000/c-programming.png" style="max-width:100%;"></a>
+<img src="https://camo.githubusercontent.com/91624b4794cb98081ea55063865721be4b4399472c81e66b89b37fd07aad1d92/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f68746d6c2d352e706e67" alt="HTML5" data-canonical-src="https://img.icons8.com/color/48/000000/html-5.png" style="max-width:100%;">
+<img src="https://camo.githubusercontent.com/dc75aee770dff630309493116eeebd6a39c7042e4e94780a5e6c8f107bebe76f/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f637373332e706e67" alt="CSS3" data-canonical-src="https://img.icons8.com/color/48/000000/css3.png" style="max-width:100%;">
+<img src="https://camo.githubusercontent.com/2771059ece39a91f0ca8afe0205a540e3af66f435508ba80b080eb249479d4dc/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f632d70726f6772616d6d696e672e706e67" alt="C" data-canonical-src="https://img.icons8.com/color/48/000000/c-programming.png" style="max-width:100%;">
   <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++"/>
-   <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="45" height="50"/> </a>                                                                                
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="45" height="50"/>                                                                                
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="50"/> 
-<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/11f0b3afa30619b424e9b29eea0b3bc9faa9a6d33c66e1ad20fc5d018f7a11f6/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f707974686f6e2d2d76312e706e67"><img src="https://camo.githubusercontent.com/11f0b3afa30619b424e9b29eea0b3bc9faa9a6d33c66e1ad20fc5d018f7a11f6/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f707974686f6e2d2d76312e706e67" alt="Python" data-canonical-src="https://img.icons8.com/color/48/000000/python--v1.png" style="max-width:100%;"></a>
- <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> 
+<img src="https://camo.githubusercontent.com/11f0b3afa30619b424e9b29eea0b3bc9faa9a6d33c66e1ad20fc5d018f7a11f6/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f707974686f6e2d2d76312e706e67" alt="Python" data-canonical-src="https://img.icons8.com/color/48/000000/python--v1.png" style="max-width:100%;">
+  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
+ <img src="https://miro.medium.com/max/1021/1*6PyBsw_sP7tP_ff_I-Ie6g.png" alt="Solidity & Ethereum" data-canonical-src="https://img.icons8.com/color/48/000000/html-5.png" style="max-width:100%;">
 <!-- <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/146631708b549852bc9ebefc88c25fa492d89c3d71caef6ecd899f622e416309/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f616d617a6f6e2d7765622d73657276696365732e706e67"><img src="https://camo.githubusercontent.com/146631708b549852bc9ebefc88c25fa492d89c3d71caef6ecd899f622e416309/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f616d617a6f6e2d7765622d73657276696365732e706e67" alt="AWS" data-canonical-src="https://img.icons8.com/color/48/000000/amazon-web-services.png" style="max-width:100%;"></a>
 </p> -->
 
