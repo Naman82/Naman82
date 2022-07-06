@@ -38,7 +38,7 @@ You can click the Preview link to take a look at your changes.
    Naman Goyal   <img alt="." src="https://emojis.slackmojis.com/emojis/images/1613942497/14160/mario_wave.gif?1613942497" width="45"> 
 </h1>  
    -->
- <p style="font-size:10%;" style="font-family:verdana;"><b>Computer Engineering</b> undergrad  at International Institute of Information Technology, Bhubaneswar.
+ <p align="center" style="font-size:10%;" style="font-family:verdana;"><b>Computer Engineering</b> undergrad  at International Institute of Information Technology, Bhubaneswar.
   </p>
 <br />
 
@@ -52,7 +52,8 @@ You can click the Preview link to take a look at your changes.
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="50"/> 
 <img src="https://camo.githubusercontent.com/11f0b3afa30619b424e9b29eea0b3bc9faa9a6d33c66e1ad20fc5d018f7a11f6/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f707974686f6e2d2d76312e706e67" alt="Python" data-canonical-src="https://img.icons8.com/color/48/000000/python--v1.png" style="max-width:100%;">
   <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
- <img src="https://miro.medium.com/max/1021/1*6PyBsw_sP7tP_ff_I-Ie6g.png" alt="Solidity & Ethereum" data-canonical-src="https://img.icons8.com/color/48/000000/html-5.png" style="max-width:100%;">
+ <img src="https://www.vectorlogo.zone/a716e883-fdc5-44ac-b5be-64e401232a50" alt="flutter" width="40" height="40"/>
+ 
 <!-- <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/146631708b549852bc9ebefc88c25fa492d89c3d71caef6ecd899f622e416309/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f616d617a6f6e2d7765622d73657276696365732e706e67"><img src="https://camo.githubusercontent.com/146631708b549852bc9ebefc88c25fa492d89c3d71caef6ecd899f622e416309/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f616d617a6f6e2d7765622d73657276696365732e706e67" alt="AWS" data-canonical-src="https://img.icons8.com/color/48/000000/amazon-web-services.png" style="max-width:100%;"></a>
 </p> -->
 
