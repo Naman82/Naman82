@@ -52,7 +52,7 @@ You can click the Preview link to take a look at your changes.
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="50"/> 
 <img src="https://camo.githubusercontent.com/11f0b3afa30619b424e9b29eea0b3bc9faa9a6d33c66e1ad20fc5d018f7a11f6/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f707974686f6e2d2d76312e706e67" alt="Python" data-canonical-src="https://img.icons8.com/color/48/000000/python--v1.png" style="max-width:100%;">
   <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
- <img src="https://www.vectorlogo.zone/a716e883-fdc5-44ac-b5be-64e401232a50" alt="flutter" width="40" height="40"/>
+ <img src="https://miro.medium.com/max/1021/1*6PyBsw_sP7tP_ff_I-Ie6g.png" alt="flutter" width="40" height="40"/>
  
 <!-- <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/146631708b549852bc9ebefc88c25fa492d89c3d71caef6ecd899f622e416309/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f616d617a6f6e2d7765622d73657276696365732e706e67"><img src="https://camo.githubusercontent.com/146631708b549852bc9ebefc88c25fa492d89c3d71caef6ecd899f622e416309/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f616d617a6f6e2d7765622d73657276696365732e706e67" alt="AWS" data-canonical-src="https://img.icons8.com/color/48/000000/amazon-web-services.png" style="max-width:100%;"></a>
 </p> -->
@@ -62,12 +62,12 @@ You can click the Preview link to take a look at your changes.
   </p>
   
 <!--   <img align="right" height="150" alt="img" src="https://emojis.slackmojis.com/emojis/images/1577982316/7421/typingcat.gif?1577982316" padding="3px"  /> -->
-  
+<!--   
 - 👀 I’m curious about learning new things.😁
 - 🌱 I’m currently learning flutter.
 - 💞️ I’m looking to collaborate on projects based on web dev/flutter.
 - 🥰 My new interests includes music and designing. 
-- ✨ A man who never gives up learning.
+- ✨ A man who never gives up learning. -->
 
 💻 Find me on:
 <br/>
