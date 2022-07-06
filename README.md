@@ -35,8 +35,7 @@ You can click the Preview link to take a look at your changes.
  
  
  <h1 align="center">
-  Hi, I’m Naman Goyal
-<!--   <img alt="." src="https://emojis.slackmojis.com/emojis/images/1613942497/14160/mario_wave.gif?1613942497" width="45"> -->
+   Naman Goyal   <img alt="." src="https://emojis.slackmojis.com/emojis/images/1613942497/14160/mario_wave.gif?1613942497" width="45"> 
 </h1>  
   
  <p style="font-size:10%;" style="font-family:verdana;"> 
