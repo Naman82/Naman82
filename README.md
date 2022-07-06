@@ -61,9 +61,9 @@ You can click the Preview link to take a look at your changes.
 <!-- <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/146631708b549852bc9ebefc88c25fa492d89c3d71caef6ecd899f622e416309/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f616d617a6f6e2d7765622d73657276696365732e706e67"><img src="https://camo.githubusercontent.com/146631708b549852bc9ebefc88c25fa492d89c3d71caef6ecd899f622e416309/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f616d617a6f6e2d7765622d73657276696365732e706e67" alt="AWS" data-canonical-src="https://img.icons8.com/color/48/000000/amazon-web-services.png" style="max-width:100%;"></a>
 </p> -->
 
-<p style="font-size:20%;" style="font-family:verdana;">
+<!-- <p style="font-size:20%;" style="font-family:verdana;">
     <b>Exploring the Web : </b>
-  </p>
+  </p> -->
   
 <!--   <img align="right" height="150" alt="img" src="https://emojis.slackmojis.com/emojis/images/1577982316/7421/typingcat.gif?1577982316" padding="3px"  /> -->
 <!--   
