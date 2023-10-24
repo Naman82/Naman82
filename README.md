@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Naman Goyal and I'm a Django/Python full stack developer, from IIIT Bhubaneswar.</h2>
+<h2 align="center">Hi 👋! My name is Naman Goyal and I'm a Flutter and Django/Python full stack developer, from IIIT Bhubaneswar.</h2>
 
 ###
 
